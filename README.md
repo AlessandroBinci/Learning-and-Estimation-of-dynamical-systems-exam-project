@@ -1,11 +1,11 @@
-<img width="606" height="469" alt="image" src="https://github.com/user-attachments/assets/ca073e77-61b3-43a5-84e3-330670fae3f5" /># Learning-and-Estimation-of-dynamical-systems-exam-project
+# Learning and Estimation of Dynamical Systems - Project Assignment
 
-## Technology
-* MATLAB
+**Author:** Alessandro Binci  
+**Course:** Learning and Estimation of Dynamical Systems (LEDS)  
+**Software:** MATLAB R2024b
 
 ## Description
-The project was divided into two main tasks: the first involved estimating and visualizing an unknown linear model,
-while the second focused on training a classifier and validating it on a separate test set.
+The project was divided into two main tasks: the first involved estimating and visualizing an unknown linear model, while the second focused on training a classifier and validating it on a separate test set.
 
 ## Theoretical Background
 This project applies fundamental concepts from the *Learning and Estimation of Dynamical Systems* course, focusing on statistical learning and system identification. 
